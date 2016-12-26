@@ -11,7 +11,7 @@
   "description": "A materialize clockpicker",
   "main": [
     "./dist/js/materialize.clockpicker.js",
-    "./dist/css/materialize-clockpicker.css"
+    "./dist/css/materialize.clockpicker.css"
   ],
   "moduleType": [
     "amd",
