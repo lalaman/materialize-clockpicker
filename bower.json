@@ -9,7 +9,10 @@
     "victor-perez <vpjs@victor-perez.nl> (https://github.com/victor-perez)"
   ],
   "description": "A materialize clockpicker",
-  "main": "js/materialize.clockpicker.js",
+  "main": [
+    "./dist/js/materialize.clockpicker.js",
+    "./dist/css/materialize-clockpicker.css"
+  ],
   "moduleType": [
     "amd",
     "globals"
